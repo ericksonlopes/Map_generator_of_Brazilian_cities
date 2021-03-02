@@ -4,9 +4,9 @@
 
 ## Descrição do Projeto 📄
 
-<p>Através de uma pesquisa realizada pelo usuário(informando município e uf),  gera uma página HTML contendo o mapa da localidade especificada. As informações são retiradas de uma base de dados contendo informações sobre todos os municípios dos estados Brasileiros</p>
+<p>Através de uma pesquisa realizada pelo usuário(informando município e uf),  gera uma página HTML contendo o mapa da localidade especificada. As informações são retiradas de uma base de dados contendo com todos os municípios dos estados Brasileiros</p>
 
-Versão do python utilizada no projeto:![Python 3](https://img.shields.io/badge/python-3.8-blue.svg)
+Versão do python utilizada no projeto: ![Python 3](https://img.shields.io/badge/python-3.8-blue.svg)
 
 
 

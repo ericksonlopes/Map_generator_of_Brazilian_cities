@@ -39,7 +39,7 @@ Preencha as informações necessárias, informando o município e UF do estado.
 
 ![image](https://user-images.githubusercontent.com/62525983/109719591-a1c86b80-7b87-11eb-99c3-519eef10d3f8.png)
 
-Ele retorna as coordenadas e gera o arquivo com o mapa.
+Ele retorna as coordenadas e gera o arquivo contendo o mapa (o nome do arquivo se refere ao nome do município + uf).
 
 ![image](https://user-images.githubusercontent.com/62525983/109719610-a68d1f80-7b87-11eb-980c-ced365a801cb.png)
 

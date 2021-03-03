@@ -4,7 +4,7 @@ import csv
 cidade = input('Digite o nome cidade:')
 uf = input('Informe o UF: ')
 print()
-with open('BRAZIL_CITIES.csv', encoding='utf-8', newline='') as csvfile:
+with open('brazil_cities.csv', encoding='utf-8', newline='') as csvfile:
     # print([[index, value] for index, value in enumerate(csvfile.readline().split(';'))])
 
     # le o arquivo, especificando o limite
